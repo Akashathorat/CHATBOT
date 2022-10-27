@@ -4,6 +4,7 @@ import {
   afterEach,
   beforeEach,
 } from 'mocha';
+import React from "react";
 import { expect } from 'chai';
 import { spy } from 'sinon';
 
